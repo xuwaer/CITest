@@ -10,10 +10,10 @@
 
 @interface CharacterTests : SenTestCase
 
-- (void)testCreateCharacterFromDetailJson;
-
-- (void)testCreateCharacterFromDetailJsonProps;
-
-- (void)testCreateCharacterFromDetailJsonValidateItems;
+//- (void)testCreateCharacterFromDetailJson;
+//
+//- (void)testCreateCharacterFromDetailJsonProps;
+//
+//- (void)testCreateCharacterFromDetailJsonValidateItems;
 
 @end
