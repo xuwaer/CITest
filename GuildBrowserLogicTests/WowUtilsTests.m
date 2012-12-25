@@ -19,7 +19,7 @@
     
     STAssertTrue([@"Paladin" isEqualToString:[WoWUtils classFromCharacterType:2]], nil);
     
-    STAssertFalse(true, @"error");
+//    STAssertFalse(true, @"error");
 }
 
 -(void)testRaceTypeLookup
