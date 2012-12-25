@@ -41,7 +41,7 @@ extern NSString * const AFNetworkingReachabilityDidChangeNotification;
  Specifies network reachability of the client to its `baseURL` domain.
  */
 #ifdef _SYSTEMCONFIGURATION_H
-typedef enum {
+typedef enum {   
     AFNetworkReachabilityStatusUnknown          = -1,
     AFNetworkReachabilityStatusNotReachable     = 0,
     AFNetworkReachabilityStatusReachableViaWWAN = 1,
