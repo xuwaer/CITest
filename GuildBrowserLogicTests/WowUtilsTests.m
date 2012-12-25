@@ -18,6 +18,8 @@
     STAssertFalse([@"Mage" isEqualToString:[WoWUtils classFromCharacterType:2]], nil);
     
     STAssertTrue([@"Paladin" isEqualToString:[WoWUtils classFromCharacterType:2]], nil);
+    
+    STAssertFalse(true, @"error");
 }
 
 -(void)testRaceTypeLookup
