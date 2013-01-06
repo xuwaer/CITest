@@ -10,7 +10,7 @@
 
 @interface WowUtilsTests : SenTestCase
 
-- (void)testCharacterClassNameLookup;
+- (void)1testCharacterClassNameLookup;
 
 - (void)testRaceTypeLookup;
 
